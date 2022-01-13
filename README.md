@@ -13,8 +13,8 @@
   
 
 
-<a href="https://discord.gg/m9m5pXz7qD">
-  <img src="http://invidget.switchblade.xyz/m9m5pXz7qD" />
+<a href="https://discord.gg/exkBruYAFJ">
+  <img src="https://invidget.switchblade.xyz/exkBruYAFJ" />
 </a>
   
 ---
@@ -29,5 +29,5 @@
   
 ---
 ### **Donations**
-<a href="https://my.qiwi.com/Tymofei-V9-J46Mkfa" target="_blank"><img src="https://donate.qiwi.com/help/assets/03466e29983ec1c1ce20298c3802251d.svg" alt="Donate me" width="217px" ></a>
+<a href="https://donate.qiwi.com/payin/utsukushii" target="_blank"><img src="https://donate.qiwi.com/help/assets/03466e29983ec1c1ce20298c3802251d.svg" alt="Поддержать!" width="217px" ></a>
 ---
