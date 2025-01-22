@@ -1,5 +1,5 @@
 <img align="left" width="240" src="https://i.imgur.com/yagsfnA.png"> <samp> <br>
-### Хей приятель, это мини-инфо обо мне [Kiouns]! 💎
+### Привет приятель, это информация обо мне [Kiouns]! 💎
   
 ✏ Я работаю над АваБоксом. <br>
 💻 Мой сервер  - [is Here]. <br>
