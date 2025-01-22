@@ -9,12 +9,6 @@
 
 ---
   
-
-
-<a href="https://discord.gg/exkBruYAFJ">
-  <img src="https://invidget.switchblade.xyz/exkBruYAFJ" />
-</a>
-  
 ---
 ### **Languages studied**
 
