@@ -1,10 +1,8 @@
 <img align="left" width="240" src="https://i.imgur.com/yagsfnA.png"> <samp> <br>
-### Привет приятель, это информация обо мне [Kiouns]! 💎
+### Привет приятель, это информация обо мне! 💎
   
-✏ Я работаю над АваБоксом. <br>
-💻 Мой сервер  - [is Here]. <br>
-💾 Мой мини-спонсор - [SPONSOR]<br>
-🚀 Моя любимая игра:OSU! <br> 
+✏ Я работаю над JS, Java, Python, ActionScript <br>
+🚀 Моя любимая игра: OSU! Miside <br> 
 🌈 Я люблю, поесть и поспать! <br> 
 
   <samp><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="17"> По всем вопросам вы можете написать мне в VK: [@id682053126](https://vk.com/id682053126) </samp>
