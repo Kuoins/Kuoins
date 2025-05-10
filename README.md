@@ -1,7 +1,7 @@
 <img align="left" width="240" src="https://i.imgur.com/yagsfnA.png"> <samp> <br>
 ### Привет приятель, это информация обо мне! 💎
   
-✏ Я работаю над JS, Java, Python, ActionScript <br>
+✏ Я работаю над JS, Java, Python, ActionScript, PHP <br>
 🚀 Моя любимая игра: OSU! Miside <br> 
 🌈 Я люблю, поесть и поспать! <br> 
 
